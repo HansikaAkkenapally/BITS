@@ -1,0 +1,32 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: rgb(169, 169, 169);
+    color:black;
+    text-align: center;
+}
+h1{
+    font-size:40px;
+    font-style:normal;
+    padding-top:10px;
+}
+.dis{
+  width:280px;
+  height:40px;
+  border-radius:5px;
+  border:none;
+  color:white;
+  font-size:x-large;
+}
+input{
+   width:58px;
+   height:35px;
+   font-size:large;
+   border-radius:5px;
+   border:none;
+   margin:6px;
+}
+.btn:hover{
+  background-color: bisque;
+  cursor:pointer;
+  }
